@@ -10,7 +10,16 @@ It fine-tunes a BERT model to classify customer feedback as **Positive**, **Nega
 3. Run all cells sequentially.
 
 ## ⚙️ Requirements
-See `requirements.txt` for package versions.
+transformers>=4.45.0
+torch>=2.2.0
+scikit-learn
+pandas
+gradio
+tqdm
+matplotlib
+seaborn
+kaggle
+
 
 ## 👤 Author
 **Qasim (GitHub: [deviljerry](https://github.com/deviljerry))**
