@@ -94,8 +94,8 @@ All screenshots are located in the `/outputs/` folder:
 
 | Training & Evaluation | Predictions |
 |------------------------|-------------|
-| ![Output 1](outputs/A3-T01_01.png) | ![Output 2](outputs/A3-T01_02.png) |
-| ![Output 3](outputs/A3-T01_03.png) | ![Output 4](outputs/A3-T01_04.png) |
+| ![Output 1](outputs/A3-T01_00.png) | ![Output 2](outputs/A3-T01_01.png) |
+| ![Output 3](outputs/A3-T01_02.png) | ![Output 4](outputs/A3-T01_03.png) |
 
 ---
 
